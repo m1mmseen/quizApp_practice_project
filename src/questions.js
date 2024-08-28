@@ -1,3 +1,5 @@
+// Always the first answer is the correct one
+
 export default [
     {
         id: 'q1',

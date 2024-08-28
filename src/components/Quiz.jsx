@@ -40,7 +40,5 @@ export default function Quiz() {
                 </ul>
             </div>
         </div>
-
     </>
-
 }
