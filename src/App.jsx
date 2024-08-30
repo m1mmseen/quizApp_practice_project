@@ -3,10 +3,10 @@ import Quiz from "./components/Quiz.jsx";
 import {StrictMode} from "react";
 
 function App() {
-    return <StrictMode>
+    return <>
         <Header/>
         <Quiz/>
-    </StrictMode>
+    </>
 }
 
 export default App;
